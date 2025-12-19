@@ -1,4 +1,4 @@
-# Herramientas-Blender-Artista
+# Artist-Tools-Addon
 
 ## Características
 
